@@ -1,0 +1,8 @@
+fridge.sqlite3*
+*.sqlite3*
+__pycache__/
+.env
+.env.*
+!.env.example
+.local-model*
+*.log
